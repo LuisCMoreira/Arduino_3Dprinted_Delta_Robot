@@ -43,14 +43,14 @@ The APP (AndroidAPP/BotComander0.aia) was created using the MIT app inventor [at
 
 
 
-![img1](images/appin use.png) 
+![img1](images/appinuse.png) 
 
 
 
 
-![img2](images/appin use2.png) 
+![img2](images/appinuse2.png) 
 
 
 
 
-![img3](images/joystickUse.PNG)
+![img3](images/joystickUse.png)
