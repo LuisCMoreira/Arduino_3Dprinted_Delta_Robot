@@ -34,10 +34,10 @@ The ESP 8266-01 will be programed to connect with an hotspot provided by the sma
 
 
 
-The APP was created using the MIT app inventor [at this url](https://appinventor.mit.edu/), but the same principles can be applied to other tech.stack.
+The APP (AndroidAPP/BotComander0.aia) was created using the MIT app inventor [at this url](https://appinventor.mit.edu/), but the same principles can be applied to other tech.stack.
 ![blockprog](images/blockprogram.PNG)
 
 
 ### Note: the model was just a quick way to do a proof of concept but the basic priciples were validated.
 
-![blockprog](images/appin use.png) ![blockprog](images/appin use2.png) ![blockprog](images/joystickUse.PNG)
+![img1](images/appin use.png) ![img2](images/appin use2.png) ![img3](images/joystickUse.PNG)
