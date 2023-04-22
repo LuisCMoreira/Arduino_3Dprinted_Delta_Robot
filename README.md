@@ -40,4 +40,17 @@ The APP (AndroidAPP/BotComander0.aia) was created using the MIT app inventor [at
 
 ### Note: the model was just a quick way to do a proof of concept but the basic priciples were validated.
 
-![img1](images/appin use.png) ![img2](images/appin use2.png) ![img3](images/joystickUse.PNG)
+
+
+
+![img1](images/appin use.png) 
+
+
+
+
+![img2](images/appin use2.png) 
+
+
+
+
+![img3](images/joystickUse.PNG)
